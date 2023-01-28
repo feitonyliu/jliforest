@@ -1,0 +1,6 @@
+[deps]
+MyDependency = "1.0"
+AnotherDependency = "0.5"
+
+[compat]
+julia = "1.5"
